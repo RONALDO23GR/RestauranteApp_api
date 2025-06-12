@@ -10,3 +10,5 @@ Restaurante_API es el servicio backend del proyecto RestauranApp movil, diseñad
 | Aron Alberto Medina Medina       |
 | Jerson Gregorio Chapoñan Llicahua| 
 
+# Link del POSTMAN 
+https://documenter.getpostman.com/view/38802751/2sB2x6kX6x
