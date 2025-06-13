@@ -2,7 +2,7 @@
 Es una App Movil de Restaurante API 
 Restaurante_API es el servicio backend del proyecto RestauranApp movil, diseñado para gestionar la información clave del sistema de reservas de restaurantes.
 
-# INTEGRANTES DEL GRUPO
+# INTEGRANTES DEL GRUPO 7
 | Nombre Completo                  |
 | ---------------------------------|
 | Ronaldo Guillen Ramirez          | 
