@@ -15,3 +15,6 @@ https://github.com/JersonCH28/Restaurante_Consultas_Aplicacion
 
 # Link del POSTMAN 
 https://documenter.getpostman.com/view/38802751/2sB2x6kX6x
+
+# Link del BackOffice
+https://github.com/GabrielaC01/backoffice-web
