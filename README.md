@@ -18,6 +18,3 @@ https://documenter.getpostman.com/view/38802751/2sB2x6kX6x
 
 # Link del BackOffice
 https://github.com/GabrielaC01/backoffice-web
-
-# Link del Frontend
-https://github.com/RONALDO23GR/MyRestaurantApp
